@@ -1,0 +1,15 @@
+pandas
+SQLAlchemy
+seaborn
+matplotlib
+notebook
+nbstripout
+black
+fiona 
+pyproj
+rtree
+shapely
+geopandas 
+mapclassify
+folium
+#brew install spatialindex
