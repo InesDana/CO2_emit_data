@@ -7,6 +7,7 @@ analysing the emissiosn data
 data source: https://www.kaggle.com/datasets/thedevastator/global-fossil-co2-emissions-by-country-2002-2022
 
 For first_EDA.ipynb one can install all requirements with pip and requirements.txt
+The out put of this notebook is kept and it shows for example plots of total CO2 emissions and sources for top emitting countries and map plots.
 
 For interactive_map_plots.py geopandas has to be instsalled with conda (GeopandasDataFrame.explore() only worked this way for me). The packages pandas, mapclassify, and folium are also needed.
 
